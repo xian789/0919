@@ -28,5 +28,6 @@ var s = "Javascript highlights ";
 alert(s)
 ```
 
+#Emphasis, aka *italics*, with *asterisks* or *underscores*.
 
 
