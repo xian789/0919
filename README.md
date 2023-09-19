@@ -28,11 +28,11 @@ var s = "Javascript highlights ";
 alert(s)
 ```
 ---
+
 Emphasis, aka *italics*, with *asterisks* or *underscores*.  
 Strong emphasis, aka bold, with **asterisks** or __underscores__.  
 Combined emphasis with  **asterisks and _underscores_**.  
 Strikethrough uses two tildes. ~~Scratch this.~~  
----
 
 ---
 
