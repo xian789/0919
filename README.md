@@ -27,28 +27,32 @@ print(s)
 var s = "Javascript highlights ";
 alert(s)
 ```
-
+---
 ###### Emphasis, aka *italics*, with *asterisks* or *underscores*.
 ###### Strong emphasis, aka bold, with **asterisks** or **underscores**.
 ###### Combined emphasis with  **asterisks and underscores**.
 ###### Strikethrough uses two tildes. ~~Scratch this.~~
+---
 
 1. First ordered list item
 2. Another item
 >..*Unordered sub-list.
 3. Actual numbers don't matter, just that it's a number
->>.. 1.Ordered sub-list
+>.. 1.Ordered sub-list
 
->>... 2.2nd
+>... 2.2nd
 4. And another item.
->>...* note1
+>...* note1
 
->>...* note2
+>...* note2
 
->>*** note3
+> note3
 
+---
 - [ ] to do list
 - [ ] 2nd things
+
+---
 
 python code
 ```python
@@ -62,6 +66,8 @@ Javascript code
 var s = "Javascript highlights ";
 alert(s)
 ```
+
+---
 
 | Table | Are | Cool |
 |:-------|:------------:|-----:|
