@@ -28,17 +28,3 @@ gantt
 1 -> 2 -> 4-> 6 -> 9 -> 11
 
 ```
-## 甘特圖
-### Mermaid
-```mermaid
-gantt
-    title team10 甘特圖
-
-    訂出主題     : a1 , 2023-10-03 , 3d
-    研擬計畫     : a2 , after a1 , 5d
-    任務分配     : a3 , after a2 , 1d
-    程式開發     : a4 , after a3 , 56d
-    程式測試     : a5 , after a4 , 7d
-    修正錯誤     : a6 , after a5 , 10d
-    修正錯誤     : a7 , after a6 , 1d
-```
